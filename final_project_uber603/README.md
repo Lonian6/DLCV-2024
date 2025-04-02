@@ -1,5 +1,7 @@
 # DLCV Final Project
 
+Co-work with team uber603: 黃彥傑, 李維釗, 郭瑋羽, 吳家萱
+
 # How to run your code?
 
 ### Environment Setup
